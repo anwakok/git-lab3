@@ -1,4 +1,4 @@
 <?php
-echo "Home";
-echo "Product";
+echo "Login";
+echo "lol";
 ?>
